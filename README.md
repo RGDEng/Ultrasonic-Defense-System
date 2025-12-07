@@ -52,4 +52,4 @@ When an object is detected within the security perimeter (defined as **15 cm**),
 * **Processing IDE** integration for a real-time visual radar interface on PC.
 
 ---
-*Created by [Your Name/Username]*
+*Created by [RDGEng]*
